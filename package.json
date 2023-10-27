@@ -1,0 +1,15 @@
+{
+  "name": "world_challenge",
+  "version": "0.0.0",
+  "description": "World Wide Brands Challenge for Image Propose Only",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "src": "src"
+  },
+  "scripts": {
+  },
+  "keywords": ["brands", "logos", "challenge", "moral", "ethics", "Climate Change", "Activism"],
+  "author": "Oscar FM aka Sun Wukong aka om",
+  "license": "Copy-Left"
+}
