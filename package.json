@@ -4,35 +4,35 @@
   "version": "0.0.1",
   "main": "src/index.ts",
   "files": [
-    "./src/Yin/apis.ts", // Yin = Logic 
-    "./src/Yin/db_template.ts",  // Yin = Logic 
-    "./src/Yin/function_template.ts",// Yin = Logic
-    "./src/Yin/services_template.ts",  // Yin = Logic
-    "./src/Yang/brandsStatistics_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
-    "./src/Yang/coins_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
-    "./src/Yang/paths_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
-    "./src/Yang/points_template.ts", // Yang = Fantasy / Imagination / Dreams / illusions /possibilities
-    "./src/Yang/ratingSystem_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
-    "./src/Frag/actions_template.ts", // Tao / Dao = Expression - The Style of God, what we do, what we become
-    "./src/Frag/brand_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
-    "./src/Frag/competitionResults_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
-    "./src/Frag/rateSystem_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
-    "./src/Frag/user_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
+    "./src/Yin/apis.ts",
+    "./src/Yin/db_template.ts",
+    "./src/Yin/function_template.ts",
+    "./src/Yin/services_template.ts",
+    "./src/Yang/brandsStatistics_template.ts",
+    "./src/Yang/coins_template.ts",
+    "./src/Yang/paths_template.ts",
+    "./src/Yang/points_template.ts",
+    "./src/Yang/ratingSystem_template.ts",
+    "./src/Frag/actions_template.ts",
+    "./src/Frag/brand_template.ts",
+    "./src/Frag/competitionResults_template.ts",
+    "./src/Frag/rateSystem_template.ts",
+    "./src/Frag/user_template.ts"
   ],
   "script": {
     "test": "echo 'this was a useless test'"
   },
   "devDependencies": {
-    "":""
+    "typescript": "^5.2.2"
   },
-  "keywords": {
+  "keywords": [
     "Dao",
     "Tao",
     "YinYang",
     "The Style of God",
     "PI",
     "1 + 1 = 1 OR 3",
-    "binary", 
+    "binary",
     "duality",
     "Brands duties",
     "Brands actions",
@@ -44,16 +44,17 @@
     "Justice",
     "Australia",
     "America",
-    "Africa", 
+    "Africa",
     "Europe",
     "India",
     "Russia",
     "Japan",
     "China",
     "UK",
+    "USA",
     "World Wide",
     "business"
-  },
+  ],
   "bugs": {
     "url": "https://github.com/odicforcesounds/World-Challenge/issues"
   },
@@ -70,7 +71,3 @@
   "author": "Oscar FM",
   "license": "OdicforceSounds Eternal License"
 }
-
-
-
-

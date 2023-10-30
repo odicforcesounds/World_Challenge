@@ -1,0 +1,6 @@
+{
+  "resolveJsonModle": true,
+  "esModuleInterop": true,
+  "module": "commonjs"
+}
+
