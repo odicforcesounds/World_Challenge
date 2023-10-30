@@ -57,8 +57,11 @@
   "bugs": {
     "url": "https://github.com/odicforcesounds/World-Challenge/issues"
   },
-  "conversation": {
-    "url": "https://github.com/odicforcesounds/World-Challenge/conversations"
+  "discussions": {
+    "url": "https://github.com/odicforcesounds/World-Challenge/discussions"
+  },
+  "wiki": {
+    "url": "https://github.com/odicoforcesounds/World-Challenge/wiki"
   },
   "repository": {
     "type": "git",
