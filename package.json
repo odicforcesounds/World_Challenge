@@ -1,15 +1,73 @@
 {
-  "name": "world_challenge",
-  "version": "0.0.0",
-  "description": "World Wide Brands Challenge for Image Propose Only",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs",
-    "src": "src"
+  "name": "@odicforcesounds/challenge",
+  "description": "World Wide Brands Competition for Image propose Only",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "files": [
+    "./src/Yin/apis.ts", // Yin = Logic 
+    "./src/Yin/db_template.ts",  // Yin = Logic 
+    "./src/Yin/function_template.ts",// Yin = Logic
+    "./src/Yin/services_template.ts",  // Yin = Logic
+    "./src/Yang/brandsStatistics_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
+    "./src/Yang/coins_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
+    "./src/Yang/paths_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
+    "./src/Yang/points_template.ts", // Yang = Fantasy / Imagination / Dreams / illusions /possibilities
+    "./src/Yang/ratingSystem_template.ts",// Yang = Fantasy / Imagination / Dreams / illusions /possibilities
+    "./src/Frag/actions_template.ts", // Tao / Dao = Expression - The Style of God, what we do, what we become
+    "./src/Frag/brand_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
+    "./src/Frag/competitionResults_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
+    "./src/Frag/rateSystem_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
+    "./src/Frag/user_template.ts",// Tao / Dao = Expression - The Style of God, what we do, what we become
+  ],
+  "script": {
+    "test": "echo 'this was a useless test'"
   },
-  "scripts": {
+  "devDependencies": {
+    "":""
   },
-  "keywords": ["brands", "logos", "challenge", "moral", "ethics", "Climate Change", "Activism"],
-  "author": "Oscar FM aka Sun Wukong aka om",
-  "license": "Copy-Left"
+  "keywords": {
+    "Dao",
+    "Tao",
+    "YinYang",
+    "The Style of God",
+    "PI",
+    "1 + 1 = 1 OR 3",
+    "binary", 
+    "duality",
+    "Brands duties",
+    "Brands actions",
+    "Brands choices",
+    "Brands Competition",
+    "Brands Ethics",
+    "Brands Morals",
+    "Brands in Society",
+    "Justice",
+    "Australia",
+    "America",
+    "Africa", 
+    "Europe",
+    "India",
+    "Russia",
+    "Japan",
+    "China",
+    "UK",
+    "World Wide",
+    "business"
+  },
+  "bugs": {
+    "url": "https://github.com/odicforcesounds/World-Challenge/issues"
+  },
+  "conversation": {
+    "url": "https://github.com/odicforcesounds/World-Challenge/conversations"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odicforcesounds/World-Challenge"
+  },
+  "author": "Oscar FM",
+  "license": "OdicforceSounds Eternal License"
 }
+
+
+
+
