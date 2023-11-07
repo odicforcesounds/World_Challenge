@@ -6,3 +6,7 @@
  */
 console.log("User FakerJS and emulate that. Companies around the world love to exploit reality and they will never accept this challenge of yours!") 
 
+/*
+ * npm i fakerjs 
+ */ 
+

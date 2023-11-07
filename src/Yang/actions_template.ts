@@ -10,5 +10,9 @@
  * The Video concept proof should be for legal proposes. I just like to talk with myself in videos, but not really showing my actons or choices from me to all others for self-evelation. 
  * I understand that, a lot of people have a concern here, while the world with or without those concerns, it is abusing from is! 
  */
-console.log("Design is complete? Government Institutions already sharing gratitude to all citizens that participate with positive contribution? Does you application have more than 1 single user ? Then, there is nothing here!")
+console.log("Design is complete? Government Institutions already sharing gratitude to all citizens that participate with positive contribution? Does your application have more than 1 single user ? Then, there is nothing here!")
+
+import duplicated from '../Frag/actions_template'
+
+
 
