@@ -1,16 +1,5 @@
 /*
- * Users 
- * 
- */ 
-class UserTemplate {
-  constructor(userId,  email, phoneNr, userActions, userCoins) {
-    this.userId = userId;
-    this.email = email;
-    this.phoneNr = phoneNr;
-    this.userActions = userActions; 
-    this.userCoins = userCoins; 
-  }
-  console.log(this.userCoins)
-}
-
+ * User interface and data manipulation. 
+ */
+console.log("no click fancy menus in here") 
 
