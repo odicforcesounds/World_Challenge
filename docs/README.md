@@ -1,14 +1,12 @@
-# App
+# Application for Our 
+## World Wide Brands Competiiton Challenge for Image Propose Only
+
+
+TODOS: 
 
 - I should organize data 
 
-- I should compare other readme's, to make my own better than ever. 
-
-- Remember that people like explanations for babies. 
-
-    If babies can understand, so everyone else can! 
-
-TODOS: 
+- I should compare other readme's, to make my own better
 
 [] - Build objects with Qualities
 
@@ -23,6 +21,8 @@ TODOS:
 [] - Join all 
 
 [] - Start using Some Web-APIs like FakerJS and others and test basics. 
+
+[] - 
 
 [] - start thinking about Design ! 
 
