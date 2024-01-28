@@ -22,7 +22,7 @@ TODOS:
 
 [] - Start using Some Web-APIs like FakerJS and others and test basics. 
 
-[] - 
+[] - Read about Video APIs. 
 
 [] - start thinking about Design ! 
 

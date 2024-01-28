@@ -5,7 +5,7 @@
     "explainFiles": true,
     "resolveJsonModle": true,
     "esModuleInterop": true,
-    "outDir": "dist"
+    "outDir": "dist/"
   },
   "rootDir": ".",
   "include": ["src/**/*", "test/**/*"],
