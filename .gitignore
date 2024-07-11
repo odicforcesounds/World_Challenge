@@ -1,3 +1,2 @@
-node_modules
-package-lock.json
-dist
+code/challenge/node_modules
+code/challenge/package-lock.json
