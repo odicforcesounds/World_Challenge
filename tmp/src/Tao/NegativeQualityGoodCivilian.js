@@ -1,4 +1,4 @@
-const negativeQualitiesOfAGoodCivilian = {
+export const negativeQualitiesOfAGoodCivilian = {
   'Irresponsibility': 0,
   'Disrespect for Others': 0,
   'Dishonesty': 0,

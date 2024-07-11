@@ -1,0 +1,6 @@
+[core]
+  editor = "vim"
+[ssh]
+  Command = "~/hubs/code/World_Challenge/pushit.sh"
+[hub]
+  remote-helper = ssh 

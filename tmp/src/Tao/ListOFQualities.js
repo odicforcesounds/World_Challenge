@@ -1,4 +1,8 @@
-const combinedObject = {
+import {HumanCare} from './qualitiesForHumanCare'
+import {AnimalCare} from './GoodAnimalCare'
+import {NatureCare} from './NatureCare'
+
+export const combinedObject = {
   ...qualitiesForGoodCivilian,
   ...negativeQualitiesForGoodCivilian,
   ...qualitiesForGoodBusinessPerson,
