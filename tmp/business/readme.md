@@ -35,6 +35,11 @@ Third [proposal](./Webmobril/TSD_03/readme.md) remove the main features of the a
 
 I gave them "Total Freedom to define the colors of this application", but one thing is "what I like" and another is "what people who will use like", which means, that colors should be connected to the idea of the application intention, and not to what I like or dislike. 
 
-The logo of this application can be a Yin Yang, since the 道 is all about Yin Yang. 
+## The Symbolic part 
+
+The Logo of this application can be a Yin Yang, since the 道 is all about Yin Yang. 
 
 1 + 1 = 1 OR 3 [Tao](https://art.odicforcesounds.com/pages/YinYang/Tao/index.html)
+
+The main site is full of symbology and spiritual knowledge that sometimes I try to explain it in a rational style. 
+
