@@ -2,7 +2,7 @@
 
 About this application: [World Brands Competition](https://wiki.odicforcesounds.com)
 
-- This application is described in several pages, being the last link the main page, that is not complete. 
+- This application is described in several pages, being the last link the main page, that is not complete. Here I try to describe the application in a formal way, but formality uses a style that can ommit information, since this style care to be implicit not explicit. 
 
 ## Application Description 
 
