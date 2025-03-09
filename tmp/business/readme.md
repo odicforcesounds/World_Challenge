@@ -31,7 +31,7 @@ The First [proposal](./Webmobril/TSD_01/readme.md) didn't include some of the ke
 
 The Second [proposal](./Webmobril/TSD_02/readme.md) include most of the features, incrementing the price. The feature of the animation in web-page is not included. This proposal is the best one, since it includes most of the features described in the page **The Challenge**. In this proposal they continue recomending the use of NodeJS, without listing the cost of the server, removing the page that include the services of the cost, like updates, fixing bugs, etc. 
 
-The Third [proposal](./Webmobril/TSD_03/readme.md) remove the main features of the application, becomming similar to the first one, but without most of the features included in the backend, while the price keeps the same. This proposal is a joke. They remove most of the features included in the last two proposals, while the proposal it self don't include the price, which lead me to understand, that the price continue the same. Here for the first time they include Firebase Services. 
+The Third [proposal](./Webmobril/TSD_03/readme.md) remove the main features of the application, becomming similar to the first one, but without most of the features included in the backend. This proposal is a joke. They remove most of the features included in the last two proposals, while the proposal it self don't include the price, which lead me to understand, that the price continue the same. Here for the first time they include Firebase Services. 
 
 I gave them "Total Freedom to define the colors of this application", but one thing is "what I like" and another is "what people who will use like", which means, that colors should be connected to the idea of the application intention, and not to what I like or dislike. 
 
