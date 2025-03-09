@@ -1,6 +1,6 @@
 # Webmobril Proposal 03 
 
-1. This platform designed to engage users in completing the challenges uploaded by other users. The challenges will be based on objective path (Human Care, Animal Care & Nature Care). Any user can register their account and start using this application. The functionality for users work based on user participate in challenges, and required to upload proof through images, videos links, and text. Users can share their views on any uploaded videos by having approval button and rejection button. In case, users found out any sort of abuse they can mark as report and 3-7 reports in sequence notified user that your video is removed.
+This platform designed to engage users in completing the challenges uploaded by other users. The challenges will be based on objective path (Human Care, Animal Care & Nature Care). Any user can register their account and start using this application. The functionality for users work based on user participate in challenges, and required to upload proof through images, videos links, and text. Users can share their views on any uploaded videos by having approval button and rejection button. In case, users found out any sort of abuse they can mark as report and 3-7 reports in sequence notified user that your video is removed.
 
  Authentication
 • Registration Process :

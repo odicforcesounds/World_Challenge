@@ -1,6 +1,6 @@
 # Webmobril 2 Proposal 
 
-1. This platform designed to engage users in completing social and environmental challenges. Employees can join platform, participate in challenges, and upload proof through images, videos, and text. Completed challenges are verified by normal users, with points awarded for approvals. Admins manage users, challenges, and content moderation. Features include leaderboards, individual ratings, notifications, and QR code-based behavior assessments to foster a community-driven, gamified environment.
+This platform designed to engage users in completing social and environmental challenges. Employees can join platform, participate in challenges, and upload proof through images, videos, and text. Completed challenges are verified by normal users, with points awarded for approvals. Admins manage users, challenges, and content moderation. Features include leaderboards, individual ratings, notifications, and QR code-based behavior assessments to foster a community-driven, gamified environment.
 
  Authentication
 • Registration Process (For Employees) :
@@ -112,11 +112,11 @@ o Animal care, etc.
 
 -Server Cost shall be bared by the client itself. 
 
-- (once again, the price of the server is ommited) but this proposal don't include one page of the last (first proposal), that express that they will support bugs and updates.
 
 --- 
 
 1. Look like they continue persisting with the NodeJS solution, but ignoring that I ask them to use Firebase. 
 2. This proposal is more align with what is described in the several pages that describe this challenge. 
+3. (once again, the price of the server is ommited) but this proposal don't include one page of the last (first proposal), that express that they will support bugs and updates.
 
 
