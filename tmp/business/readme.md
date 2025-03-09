@@ -7,9 +7,9 @@ About this application: [World Brands Competition](https://wiki.odicforcesounds.
 ## Application Description 
 
 1. [Social Tool Kit - World Wide Conscience Cleaner](https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/11_Social_Tool_Kit/index.html)
-- The last link is made of a text, that aims to describe the application in a poetic style, but giving some keys that are they main subjects of it's root concepts. 
+- The last link is made of a text, that aims to describe the application in a poetic style, but giving some keys that include the main subjects of it's root concepts. 
 2.  [The Game Project - Is Fun to Take Care](https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/10_The_Game_Project/index.html)
-- The last link is another page, that describe the intention of the application, pointing into the direction of being a game that aims to motivate acts of care. 
+- The last link is another page, that describe the intention of the application, pointing into the direction of being a game that aims to motivate acts of care into industry. 
 3. [The Challenge](https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/01_The_Challenge/index.html)
 - The last link is the technical description of this application, inside a imaginary world, which describe **all** subjects that this application aims to cover in a technical way and in a subjective way, describing **all features** that are the **main keys** of the application it self. 
 
