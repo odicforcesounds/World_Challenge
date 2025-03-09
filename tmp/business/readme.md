@@ -15,7 +15,7 @@ About this application: [World Brands Competition](https://wiki.odicforcesounds.
 
 ## Application Development - Key Concepts
 
-This application aims to use some pre-defined technology, like Firebase and Github. The description that point to this requirements are defined in this website [License](https://art.odicforcesounds.com/pages/License/index.html), and is some audio-tracks, from the same about of the page **The Challenge**, which include the audio track, **Firebase - Solar Plexus** and **Dive into the World of JavaScript**. The **License** aims to cover the artistic approach and the application it self. 
+This application aims to use some pre-defined technology, like Firebase and Github. The description that point to this requirements are defined in this website [License](https://art.odicforcesounds.com/pages/License/index.html), and all audio-tracks, from the same audio-album of the page **The Challenge**, which include the audio track, **[Firebase - Solar Plexus](https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/06_Firebase_Solar_Plexus/index.html)** and **[Dive into the World of JavaScript](https://art.odicforcesounds.com/pages/Data/Audio/Spiritual_Algorithmic/tracks/04_Into_the_World_of_JavaScript/index.html)**. The **License** aims to cover the artistic approach and the application it self. 
 
 ## Business - The Company 
 
