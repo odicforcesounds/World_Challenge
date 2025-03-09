@@ -33,7 +33,7 @@ The Second [proposal](./Webmobril/TSD_02/readme.md) include most of the features
 
 The Third [proposal](./Webmobril/TSD_03/readme.md) remove the main features of the application, becomming similar to the first one, but without most of the features included in the backend. This proposal is a joke. They remove most of the features included in the last two proposals, while the proposal it self don't include the price, which lead me to understand, that the price continue the same. Here for the first time they include Firebase Services. 
 
-I gave them "Total Freedom to define the colors of this application", but one thing is "what I like" and another is "what people who will use like", which means, that colors should be connected to the idea of the application intention, and not to what I like or dislike. 
+I gave them "Total Freedom to define the UI/UX of this application", but one thing is *what I like* and another is *what people who will use it, like*, which means, colors should be connected to the idea of the application intention, and not to what I like or dislike. 
 
 ## The Symbolic part 
 
