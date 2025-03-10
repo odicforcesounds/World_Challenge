@@ -31,15 +31,20 @@ The First [proposal](./Webmobril/TSD_01/readme.md) didn't include some of the ke
 
 The Second [proposal](./Webmobril/TSD_02/readme.md) include most of the features, incrementing the price. The feature of the animation in web-page is not included. This proposal is the best one, since it includes most of the features described in the page **The Challenge**. In this proposal they continue recomending the use of NodeJS, without listing the cost of the server, removing the page that include the services of the cost, like updates, fixing bugs, etc. 
 
-The Third [proposal](./Webmobril/TSD_03/readme.md) remove the main features of the application, becomming similar to the first one, but without most of the features included in the backend. This proposal is a joke. They remove most of the features included in the last two proposals, while the proposal it self don't include the price, which lead me to understand, that the price continue the same. Here for the first time they include Firebase Services. 
+The Third [proposal](./Webmobril/TSD_03/readme.md) remove the main features of the application, becomming similar to the first one, but without most of the features included in the backend. This proposal is a joke. They remove most of the features included in the last two proposals, while the proposal it self don't include the price, which lead me to understand, that the price continue the same. Here for the **first time they include Firebase Services** [Firebase site list the price of the services]. This proposal have some **positive** point. They add a Fake list of companies that are above or below others. Then I ask them if the real companies will be presented in this list, or another. I had no answers about that. 
 
 I gave them "Total Freedom to define the UI/UX of this application", but one thing is *what I like* and another is *what people who will use it, like*, which means, colors should be connected to the idea of the application intention, and not to what I like or dislike. 
 
+## Legal Issues
+
+Since I do not represent a company that offer a service, I cannot ask other companies some fee to register their employees. Facing with this problem I try to find some solution, while Webmobril didn't advice me any solution. Therefor I change the obligatory fee to register companies to free, asking them to add a "donation bottom", inside the android application. 
+
 ## The Symbolic part 
+
+The main site is full of symbology and spiritual knowledge that sometimes I try to explain it in a rational style. Includes Taoism, Hinduism and Buddhism. Having a system that control actions inside economy is as well, part of the idea that the Islamic book aims to add, as something that should exist in economy, to limit industry / economy freedom.  
 
 The Logo of this application can be a Yin Yang, since the 道 is all about Yin Yang. 
 
 1 + 1 = 1 OR 3 [Tao](https://art.odicforcesounds.com/pages/YinYang/Tao/index.html)
 
-The main site is full of symbology and spiritual knowledge that sometimes I try to explain it in a rational style. 
 
