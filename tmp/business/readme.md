@@ -2,7 +2,13 @@
 
 About this application: [World Brands Competition](https://wiki.odicforcesounds.com)
 
-- This application is described in several pages, being the last link the main page, that is not complete. Here I try to describe the application in a formal way, but formality uses a style that can ommit information, since this style care to be implicit not explicit. 
+This application is described with all features in the last link. The company didn't read the content of that page. In the **Experience** topic of this page, in the **First Proposal**, we can see that they didn't read it, since the text they present, describe the several links of the main page, as being different challenges. For some moments I thought that the problem of communication was my fault, but I can see that the problem was that they didn't read it. I put a child of 12 years reading the content and thinking about what features the application would need to have. This child is not super intelligent or genious, but she describe all features that this application need to have. The next [Link](https://github.com/odicforcesounds/World_Challenge/issues/14#issuecomment-2541265605) describe all this features in a EXPLICIT way, and even then this company had some problems in it's interpretation. I guess the language can be the difference, while today they call me, and told me thatm, **the cost of server is not their problem**, and for that, they would share the information of the cost, later, after application development, which is a demonstration that they don't care about their clients needs.. A demonstration of disrespectuful attitude. Personally I can be honest and make use of **Humility**, but when I see that the other part is trying to make fun of me, I demonstrate myself offensive. In this last call, they even told me that the "timestone" have a limit time, but they didn't told me nothing about in the begining of our communication,or in any of their proposals. Well, since they were not explicit with me, that is not my problem. [Call Me Karma](https://art.odicforcesounds.com/pages/Data/Audio/Shiva_and_Kali_Dance/tracks/14_Call_me_Karma/)
+
+1. [Main Concept](https://wiki.odicforcesounds.com/src/en/concepts.html)
+2. [Industry](https://wiki.odicforcesounds.com/src/en/industry.html)
+3. [Application](https://wiki.odicforcesounds.com/src/en/app.html)
+
+The last links are without modification for more than 2 years. A child of 12 years who read them, is not better than a Developer team with more than 8 years of experience (is what they say). 
 
 ## Application Description 
 
