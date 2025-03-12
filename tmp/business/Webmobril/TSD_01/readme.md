@@ -5,13 +5,14 @@
 - They don't show from where this idea comes, but this first idea have origin in the perspective that (me) would talk to companies to register their own employees into this challenge. For this, the fee is asked to companies administrators, not to their employees. Company already pay the fee for their employees, so employees don't need to pay more. (make sense?)
 
 ##  View Challenges
-• Users can view the listed challenges on the platform.
-• Users can select the language of their challenge on the home screen for better clarity.
-Languages such as English, Deutsche, Español, Français, Português, Русский, हिन्दी, 中文, Ελληνικά ,עִ בְ רִ ית ,عربي ,日本語 ,
- There will be different challenges available for users to choose between such as mentioned below
-• Forgot Password
- Users will be able to reset their password on the application by clicking
-‘Forgot Password’ link.
+
+1. Users can view the listed challenges on the platform.
+2. Users can select the language of their challenge on the home screen for better clarity.
+3. Languages such as English, Deutsche, Español, Français, Português, Русский, हिन्दी, 中文, Ελληνικά ,עִ בְ רִ ית ,عربي ,日本語 ,
+4. There will be different challenges available for users to choose between such as mentioned below
+5. Forgot Password
+- Users will be able to reset their password on the application by clicking
+6. Forgot Password’ link.
  User have to enter new & confirm new password and save in order to login on the platform.
 
 • Challenge Introduction
@@ -28,40 +29,39 @@ Languages such as English, Deutsche, Español, Français, Português, Русск
 • Application License
 • Author Contacts
 
-Upon tapping any of the above, it will be open up a description screen with the challenge details. (this show that they didn't read the site) - wiki.odicforcesounds.com 
+7. Upon tapping any of the above, it will be open up a description screen with the challenge details. (this show that they didn't read the site) - wiki.odicforcesounds.com 
 
 • Users will be having an option to take participate in challenge by sharing their details which directly fetched from users account details. (????)
 
 ## Admin Panel 
 
-The back end of the platform will be power packed with an administrative panel to manage the updates of data at the application level & back end.
- Admin Login
-• Admin can login using their ;
- ID
- Password
+1. The back end of the platform will be power packed with an administrative panel to manage the updates of data at the application level & back end.
+- Admin Login
+- Admin can login using their ;
+- ID
+- Password
 
- Users Management
-• Admin will be able to search for any users by their name or email and can view all the details stored in the system.
-• Admin will be able to create/ Remove any user using the admin panel.
+2. Users Management
+- Admin will be able to search for any users by their name or email and can view all the details stored in the system.
+- Admin will be able to create/ Remove any user using the admin panel.
 
- Challenge Content Management
-• Admin will be able to create/ Remove/ Edit content on the platform like the listing of challenges along with the details inside it.
-• To add new challenge admin have to provide the below details
+3. Challenge Content Management
+- Admin will be able to create/ Remove/ Edit content on the platform like the listing of challenges along with the details inside it.
+- To add new challenge admin have to provide the below details
+- Challenge Title (Name)
+- Description to it.
+- Save
 
- Challenge Title (Name)
- Description to it.
- Save
+4. View Participants
+- Admin will be able to manage all the challengers who reregister for the challenges.
+- All the activity would be taking care outside of the platform i.e., admin can only view the details of employees.
 
- View Participants
-• Admin will be able to manage all the challengers who reregister for the challenges.
-• All the activity would be taking care outside of the platform i.e., admin can only view the details of employees.
-
- Content Management
-• Admin will be able to manage (Add/View/Edit) the static contents.
- About Us
- Terms and Conditions
- Privacy Policy
- Additionally admin can manage the videos and text content which are part of the platform. 
+5. Content Management
+- Admin will be able to manage (Add/View/Edit) the static contents.
+- About Us
+- Terms and Conditions
+- Privacy Policy
+- Additionally admin can manage the videos and text content which are part of the platform. 
 
 --- 
 
