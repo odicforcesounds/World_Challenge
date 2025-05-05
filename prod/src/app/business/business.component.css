@@ -1,0 +1,27 @@
+.container{
+  padding:5%;
+}
+
+.container cite {
+  color:cyan;
+  font-size: large;
+}
+
+.container p{
+  font-size: 24px;
+  margin-top: 2%;;
+  margin-bottom: 2%;
+  color:white;
+}
+
+.container main{
+  color:antiquewhite;
+}
+
+.content{
+  margin-top: 3%;
+}
+
+.container a{
+  text-decoration: none;
+}

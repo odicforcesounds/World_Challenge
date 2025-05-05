@@ -1,0 +1,20 @@
+article {
+  display: flex;
+  flex-direction: row;
+  flex-flow:wrap;
+}
+
+.content{
+  display: relative;
+  padding:10%;
+}
+
+.content p{
+  font-size: 32px;
+  color:aliceblue;
+}
+
+.content a{
+  text-decoration: none;
+}
+
