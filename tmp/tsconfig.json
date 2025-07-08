@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "explainFiles": true,
+    "resolveJsonModle": true,
+    "esModuleInterop": true,
+    "outDir": "dist/"
+  },
+  "rootDir": ".",
+  "include": ["src/**/*", "test/**/*"],
+  "files": [
+    "./src/Yin/apis.ts",
+    "./src/Yin/db_template.ts",
+    "./src/Yin/function_template.ts",
+    "./src/Yin/services_template.ts",
+    "./src/Yang/brandsStatistics_template.ts",
+    "./src/Yang/coins_template.ts",
+    "./src/Yang/paths_template.ts",
+    "./src/Yang/points_template.ts",
+    "./src/Yang/ratingSystem_template.ts",
+    "./src/Frag/actions_template.ts",
+    "./src/Frag/brand_template.ts",
+    "./src/Frag/competitionResults_template.ts",
+    "./src/Frag/rateSystem_template.ts",
+    "./src/Frag/user_template.ts"
+  ]
+}
+
