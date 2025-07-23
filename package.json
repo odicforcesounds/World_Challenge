@@ -1,0 +1,24 @@
+{
+  "name": "world_challenge",
+  "version": "1.0.0",
+  "description": "everything can change",
+  "main": "app/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odicforcesounds/World_Challenge.git"
+  },
+  "keywords": [],
+  "author": "Unknown",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/odicforcesounds/World_Challenge/issues"
+  },
+  "homepage": "https://github.com/odicforcesounds/World_Challenge#readme"
+}
